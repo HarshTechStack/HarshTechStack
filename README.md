@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm Vivek Harsh
 
-<!--
-**HarshTechStack/HarshTechStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Passionate about transforming code into innovative solutions  
+🎓 Student @ Maharashtra Institute of Technology, Pune  
+📍 Based in India | IST (UTC+5:30)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, Node.js, Express
+- **Databases**: MongoDB, Firebase, MySQL
+- **Tools**: Git, GitHub, VS Code, Postman, Figma
+
+---
+
+### 📌 Current Projects
+- 🔥 **Wildfire Detection System** – Deep learning on satellite data, live map visualizations
+- 🎬 **Movie Booking App** – Full-stack system for movie ticket reservations
+- 🖌️ **Signature Canvas** – HTML5 canvas app to capture user signatures
+- 🌐 **Portfolio Website** – [vivekharsh.in](https://www.vivekharsh.in)
+
+---
+
+### 📫 Let's Connect
+- ✉️ Email: vivekharsh.work@gmail.com
+- 🌐 Website: [vivekharsh.in](https://www.vivekharsh.in)
+- 🔗 [LinkedIn](https://linkedin.com/in/vivekharshcodecraft)
+- 💬 [Telegram](https://t.me/HarshTechStack)
+- 📸 [Instagram](https://www.instagram.com/iam_vivek_harsh)
+
+---
+
+> “Code is not just a skill, it’s how I turn ideas into experiences.”
+
