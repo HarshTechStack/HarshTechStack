@@ -2,6 +2,7 @@
 
 🚀 Full-Stack Developer | Passionate about transforming code into innovative solutions  
 🎓 Student @ Maharashtra Institute of Technology, Pune  
+🏢 Founder & Director @ [LMS Enterprises Pvt. Ltd.]
 📍 Based in India | IST (UTC+5:30)
 
 ---
@@ -16,6 +17,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🏢 Entrepreneurial Work
+
+🔹 **Founder & Director — [LMS Enterprises Pvt. Ltd.])**  
+Registered under MCA & MSME | GST Verified | Based in Ranchi, Jharkhand  
+Currently operating across Construction, Cement/Tiles Trading, and Agri-tech solutions.
 
 ---
 
@@ -63,4 +72,3 @@
 
 > “Code is not just a skill, it’s how I turn ideas into experiences.”  
 > — *Vivek Harsh*
-
