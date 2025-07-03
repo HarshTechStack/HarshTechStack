@@ -1,30 +1,28 @@
 # 👋 Hey there, I'm Vivek Harsh
 
-🚀 **Full-Stack Developer** | Passionate about transforming code into innovative solutions  
+🚀 Full-Stack Developer | Passionate about transforming code into innovative solutions  
 🎓 Student @ Maharashtra Institute of Technology, Pune  
-🏢 Founder & Director @ [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in)  
+🏢 Founder & Director @ [LMS Enterprises Pvt. Ltd.]
 📍 Based in India | IST (UTC+5:30)
 
 ---
 
-### 💻 Tech Stack (Animated)
+### 💻 Tech Stack
 
-<marquee direction="left" scrollamount="6">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</marquee>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ### 🏢 Entrepreneurial Work
 
-🔹 **Founder & Director — [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in)**  
+🔹 **Founder & Director — [LMS Enterprises Pvt. Ltd.])**  
 Registered under MCA & MSME | GST Verified | Based in Ranchi, Jharkhand  
 Currently operating across Construction, Cement/Tiles Trading, and Agri-tech solutions.
 
@@ -72,5 +70,3 @@ Currently operating across Construction, Cement/Tiles Trading, and Agri-tech sol
 
 ---
 
-> “Code is not just a skill, it’s how I turn ideas into experiences.”  
-> — *Vivek Harsh*
