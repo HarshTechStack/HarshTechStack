@@ -1,90 +1,76 @@
 # 👋 Hey there, I'm Vivek Harsh
 
-🚀 **Full-Stack Developer** | Passionate about transforming code into innovative, scalable solutions  
-🎓 **Student** @ Maharashtra Institute of Technology, Pune  
-🏢 **Founder & Director** @ [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in) | Based in India (IST)
+🚀 **Full-Stack Developer** | Passionate about transforming code into innovative solutions  
+🎓 Student @ Maharashtra Institute of Technology, Pune  
+🏢 Founder & Director @ [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in)  
+📍 Based in India | IST (UTC+5:30)
 
 ---
 
-## 🏢 Entrepreneurial Journey
+### 💻 Tech Stack (Animated)
 
-### Founder & Director — [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in)
-- Registered under **MCA** & **MSME** | GST Verified  
-- Operates across **Construction**, **Tiles/Cement Trading**, and **Agri-tech**  
-- Focused on building **tech-enabled solutions** to modernize rural logistics, procurement, and commerce
-
-🚀 As Founder & Director, I lead operations, business strategy, and product development across multiple verticals, leveraging my technical background to build scalable digital tools for real-world challenges.
-
----
-
-## 💼 Recent Internship — Nivan AI Pvt. Ltd. (Jan–June 2025)
-
-🎉 **Excited to share the completion of my Full Stack Developer Internship at Nivan AI Pvt. Ltd.**
-
-I contributed to the development of a cutting-edge **AI-powered legal consultation platform**, built entirely using the **MERN stack**.
-
-### 🔍 Project Overview
-Users can:
-- Ask legal questions via a chatbot
-- Get AI-generated answers citing relevant laws
-- Match with verified lawyers based on location & domain
-- Schedule consultations, make payments, and join secure video calls
-
-### 🛠️ Key Contributions
-- Developed and deployed **two complete frontends** (User & Lawyer) and **two backend servers**
-- Implemented **JWT-based authentication** and secure API handling over **HTTPS**
-- Integrated **Razorpay** for payments and **Nodemailer** for sending transactional emails with PDF receipts
-- Built real-time lawyer availability logic, threaded chat history, and consultation dashboards
-- Deployed the full stack on **AWS EC2** with custom domains and SSL setup
-- Created an **Admin Panel** for lawyer onboarding and verification
-
-### 🔗 Live Project Links
-- 🌐 [User Frontend](https://frontend.mynivan.com/)
-- 👨‍⚖️ [Lawyer Frontend](https://lawyerfrontend.mynivan.com/)
-
-🙌 Grateful to the Nivan AI team for their guidance and mentorship. This internship helped me sharpen my skills in real-world product development and scalable system design.
+<marquee direction="left" scrollamount="6">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</marquee>
 
 ---
 
-## 🧰 Tech Stack
-`Python` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Firebase`  
-`HTML5` | `CSS3` | `AWS` | `Docker` | `REST APIs` | `GitHub Actions`
+### 🏢 Entrepreneurial Work
+
+🔹 **Founder & Director — [LMS Enterprises Pvt. Ltd.](https://www.lmsenterprises.in)**  
+Registered under MCA & MSME | GST Verified | Based in Ranchi, Jharkhand  
+Currently operating across Construction, Cement/Tiles Trading, and Agri-tech solutions.
 
 ---
 
-## 📌 Featured Projects
+### 📌 Current Projects
 
-### 🔥 Wildfire Detection System
-End-to-end deep learning pipeline to detect wildfires from satellite imagery and visualize results on an interactive map.  
-[🔗 GitHub](https://github.com/HarshTechStack/Wildfire-Detection)
+- 🔥 **Wildfire Detection System**  
+  End-to-end deep learning pipeline to detect wildfires from satellite images and visualize results on an interactive map.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/Wildfire-Detection)
 
-### 🎬 Movie Booking App
-Full-stack ticket booking system with user login, seat selection, and admin panel.  
-[🔗 GitHub](https://github.com/HarshTechStack/Movie-booking)
+- 🎬 **Movie Booking App**  
+  Full-stack system for booking movie tickets with user login, admin panel, and seat management.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/Movie-booking)
 
-### ✍️ Signature Canvas
-Lightweight HTML5 canvas app for drawing, saving, and exporting user signatures.  
-[🔗 GitHub](https://github.com/HarshTechStack/signature-canvas)
+- 🖌️ **Signature Canvas**  
+  HTML5 canvas app to draw and save user signatures with export functionality.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/signature-canvas)
 
-### 🌐 Portfolio Website
-My personal developer portfolio with projects, resume, and contact form.  
-[🔗 Live](https://www.vivekharsh.in) | [🔗 GitHub](https://github.com/HarshTechStack/vivekharsh-portfolio)
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshTechStack&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshTechStack&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTechStack&layout=compact&theme=tokyonight)
+- 🌐 **Portfolio Website**  
+  Personal portfolio website to showcase my projects, resume, and contact.  
+  🌍 [Live](https://www.vivekharsh.in) | 📦 [GitHub Repo](https://github.com/HarshTechStack/vivekharsh-portfolio)
 
 ---
 
-## 📫 Let's Connect
+### 📈 GitHub Stats
 
-- 🌐 [Website](https://www.vivekharsh.in)
-- 📧 Email: vivekharsh.work@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vivekharshcodecraft)
-- 💬 [Telegram](https://t.me/HarshTechStack)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshTechStack&show_icons=true&theme=radical" alt="Vivek's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshTechStack&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTechStack&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ Email: vivekharsh.work@gmail.com  
+- 🌐 Website: [vivekharsh.in](https://www.vivekharsh.in)  
+- 🔗 [LinkedIn](https://linkedin.com/in/vivekharshcodecraft)  
+- 💬 [Telegram](https://t.me/HarshTechStack)  
 - 📸 [Instagram](https://www.instagram.com/iam_vivek_harsh)
 
-> “Code is not just a skill, it’s how I turn ideas into experiences.” — *Vivek Harsh*
+---
+
+> “Code is not just a skill, it’s how I turn ideas into experiences.”  
+> — *Vivek Harsh*
