@@ -7,29 +7,60 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js, Express
-- **Databases**: MongoDB, Firebase, MySQL
-- **Tools**: Git, GitHub, VS Code, Postman, Figma
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ### 📌 Current Projects
-- 🔥 **Wildfire Detection System** – Deep learning on satellite data, live map visualizations
-- 🎬 **Movie Booking App** – Full-stack system for movie ticket reservations
-- 🖌️ **Signature Canvas** – HTML5 canvas app to capture user signatures
-- 🌐 **Portfolio Website** – [vivekharsh.in](https://www.vivekharsh.in)
+
+- 🔥 **Wildfire Detection System**  
+  End-to-end deep learning pipeline to detect wildfires from satellite images and visualize results on an interactive map.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/Wildfire-Detection)
+
+- 🎬 **Movie Booking App**  
+  Full-stack system for booking movie tickets with user login, admin panel, and seat management.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/Movie-booking)
+
+- 🖌️ **Signature Canvas**  
+  HTML5 canvas app to draw and save user signatures with export functionality.  
+  📦 [GitHub Repo](https://github.com/HarshTechStack/signature-canvas)
+
+- 🌐 **Portfolio Website**  
+  Personal portfolio website to showcase my projects, resume, and contact.  
+  🌍 [Live](https://www.vivekharsh.in) | 📦 [GitHub Repo](https://github.com/HarshTechStack/vivekharsh-portfolio)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshTechStack&show_icons=true&theme=radical" alt="Vivek's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshTechStack&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshTechStack&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
-- ✉️ Email: vivekharsh.work@gmail.com
-- 🌐 Website: [vivekharsh.in](https://www.vivekharsh.in)
-- 🔗 [LinkedIn](https://linkedin.com/in/vivekharshcodecraft)
-- 💬 [Telegram](https://t.me/HarshTechStack)
+
+- ✉️ Email: vivekharsh.work@gmail.com  
+- 🌐 Website: [vivekharsh.in](https://www.vivekharsh.in)  
+- 🔗 [LinkedIn](https://linkedin.com/in/vivekharshcodecraft)  
+- 💬 [Telegram](https://t.me/HarshTechStack)  
 - 📸 [Instagram](https://www.instagram.com/iam_vivek_harsh)
 
 ---
 
-> “Code is not just a skill, it’s how I turn ideas into experiences.”
+> “Code is not just a skill, it’s how I turn ideas into experiences.”  
+> — *Vivek Harsh*
 
