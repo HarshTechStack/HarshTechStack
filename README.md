@@ -28,6 +28,37 @@ Currently operating across Construction, Cement/Tiles Trading, and Agri-tech sol
 
 ---
 
+
+<details>
+  <summary>💼 <strong>Internship — Nivan AI Pvt. Ltd. (Jan–June 2025)</strong></summary>
+
+<br/>
+
+🚀 <strong>Full Stack Developer Intern</strong> at <strong>Nivan AI Pvt. Ltd.</strong>  
+Contributed to building a cutting-edge <strong>AI-powered legal consultation platform</strong> using the <strong>MERN stack</strong>.
+
+#### 🔍 Project Overview
+- Ask legal questions via a chatbot  
+- Get AI-generated answers citing applicable laws  
+- Match with verified lawyers by domain and location  
+- Book consultations, make payments, and join secure video calls  
+
+#### 🛠️ Key Contributions
+- Developed & deployed complete <strong>User</strong> and <strong>Lawyer</strong> frontends  
+- Built two backend servers with <strong>JWT-based authentication</strong> and <strong>HTTPS-secure APIs</strong>  
+- Integrated <strong>Razorpay</strong> for payments and <strong>Nodemailer</strong> for transactional emails and PDF generation  
+- Implemented real-time lawyer availability, threaded chat, and admin dashboard  
+- Deployed full stack on <strong>AWS EC2</strong> with custom domains & SSL (HTTPS)  
+
+#### 🔗 Live Links
+- 🌐 <a href="https://frontend.mynivan.com/" target="_blank">User Frontend</a>  
+- 👨‍⚖️ <a href="https://lawyerfrontend.mynivan.com/" target="_blank">Lawyer Frontend</a>  
+
+🙌 Grateful to the Nivan AI team for their mentorship. This internship strengthened my skills in scalable architecture, secure deployment, and full-cycle product development.
+
+</details>
+
+
 ### 📌 Current Projects
 
 - 🔥 **Wildfire Detection System**  
